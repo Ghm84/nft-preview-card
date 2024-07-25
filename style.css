@@ -185,14 +185,14 @@ h4 {
         position: absolute;
     }
 
-    h3 {
-        margin-left: 17rem;
-    }
-
     .icon-clock {
         margin-left: 15rem;
     }
-    
+
+    h3 {
+        margin-left: 16rem;
+    }
+
     hr {
         max-width: 20rem;
     }
