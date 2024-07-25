@@ -149,7 +149,7 @@ h4 {
     }
 
     .card {
-        max-width: 30%;
+        max-width: 28%;
         margin: 0 auto;
     }
 
@@ -168,6 +168,7 @@ h4 {
 
     .content {
         max-width: 100%;
+        margin-left: 0.5rem;
     }
 
     .icon-view {
@@ -176,7 +177,7 @@ h4 {
     }
 
     p {
-        font-size: 1.1rem;
+        font-size: 1.15rem;
         font-weight: 300;
         margin-right: 1rem;
     }
@@ -186,11 +187,11 @@ h4 {
     }
 
     .icon-clock {
-        margin-left: 14rem;
+        margin-left: 14.25rem;
     }
 
     h3 {
-        margin-left: 15.5rem;
+        margin-left: 16rem;
     }
 
     hr {
