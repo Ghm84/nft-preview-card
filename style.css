@@ -78,7 +78,7 @@ h2 {
 .icon-clock {
     position: absolute;
     margin-top: -2rem;
-    margin-left: 11rem;
+    margin-left: 10.8rem;
 }
 
 h3 {
@@ -87,7 +87,7 @@ h3 {
     font-size: 1rem;
     font-weight: 400;
     margin-top: -2.05rem;
-    margin-left: 12.7rem;
+    margin-left: 12.25rem;
 }
 
 hr {
@@ -183,6 +183,14 @@ h4 {
 
     .icon-eth {
         position: absolute;
+    }
+
+    .icon-clock {
+        margin-left: 12rem;
+    }
+
+    h3 {
+        margin-left: 14rem;
     }
 
     hr {
